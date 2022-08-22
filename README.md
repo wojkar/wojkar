@@ -1,4 +1,4 @@
-Skilled Front-end Developer with experience in creating extensive solutions for large enterprises. Well-versed in Angular, AngularJS, HTML and CSS, passionate about engineering elegant, modern user interfaces. Enthusiast of agile practices for efficient multi-team project management. Effective altruist volunteering IT skills to change the world for animals. 
+Skilled Front-end Developer with experience in creating extensive solutions for large enterprises. Well-versed in Angular, AngularJS, HTML and CSS, passionate about engineering elegant, modern user interfaces. Enthusiast of agile practices for efficient multi-team project management. Aspiring effective altruist volunteering IT skills to change the world for animals. 
 
 <!--
 **wojkar/wojkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
